@@ -1,4 +1,4 @@
-# E-commerce-Sales-Insight
+# E-commerce-Sales-Insight Using PostgreSQL
 This project focuses on exploratory data analysis (EDA) and business insights generation using SQL on a sales dataset. The analysis covers data quality checks, customer segmentation, product sales trends, regional performance, and shipping insights.
 
 # Project Objective
